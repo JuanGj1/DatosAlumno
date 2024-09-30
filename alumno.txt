@@ -1,0 +1,4 @@
+Nombre: Juan
+Carrera: Informatica
+Matricula: 10056439
+Edad: 20
